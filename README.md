@@ -3,7 +3,62 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=F772F7&size=28&center=true&vCenter=true&width=900&lines=Hi+there+👋+I'm+Astha+Singh!;Web+Developer+%7C+UI%2FUX+Enthusiast;Designing+Beautiful+%26+User-Friendly+Experiences;Always+Learning+%7C+Always+Building" />
 </p>
 
----## Hi there 👋
+---
+
+## 🌸 About Me  
+✨ Passionate Web Developer in Making  
+✨ UI/UX learner who loves aesthetic digital experiences  
+✨ Obsessed with turning ideas into clean interfaces  
+✨ Currently learning *JavaScript, DOM, and UI/UX*  
+✨ Believe in learning by building, not just watching
+
+---
+
+## 🛠 Skills & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,vscode,git,github" />
+</p>
+
+---
+
+## 🌱 Currently Learning  
+- Advanced JavaScript  
+- Responsive Web Design  
+- UI/UX Design (Figma, Design Psychology)  
+- Building real web projects  
+
+---
+
+## 🚀 Projects (Coming Soon)
+I'm actively learning and building — exciting repos will appear here soon!  
+Stay tuned 👀✨
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=18Astha&show_icons=true&theme=radical" />
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=18Astha&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/18Astha/18Astha/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+📧 *Email:* asthaaasingh18@gmail.com  
+ *𝕏:* https://x.com/astha_s18?t=Mzszkjm2XGMr8C0-M7PYRA&s=08   
+📱 *LinkedIn:* https://www.linkedin.com/in/astha-singh-627932322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+---
+
+## 💫 Fun Fact  
+I love blending creativity + logic to build beautiful things on the internet ✨
 
 <!--
 **18Astha/18Astha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
