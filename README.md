@@ -43,16 +43,11 @@ Stay tuned 👀✨
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/18Astha/18Astha/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🌐 Connect With Me  
-📧 *Email:* asthaaasingh18@gmail.com  
- *𝕏:* https://x.com/astha_s18?t=Mzszkjm2XGMr8C0-M7PYRA&s=08   
+📧 *Email:*  asthaaasingh18@gmail.com 
+
+ *𝕏:*  https://x.com/astha_s18?t=Mzszkjm2XGMr8C0-M7PYRA&s=08
+ 
 📱 *LinkedIn:* https://www.linkedin.com/in/astha-singh-627932322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
