@@ -1,4 +1,9 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=F772F7&size=28&center=true&vCenter=true&width=900&lines=Hi+there+👋+I'm+Astha+Singh!;Web+Developer+%7C+UI%2FUX+Enthusiast;Designing+Beautiful+%26+User-Friendly+Experiences;Always+Learning+%7C+Always+Building" />
+</p>
+
+---## Hi there 👋
 
 <!--
 **18Astha/18Astha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
