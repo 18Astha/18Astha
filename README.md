@@ -46,9 +46,9 @@ Stay tuned 👀✨
 ## 🌐 Connect With Me  
 📧 *Email:*  asthaaasingh18@gmail.com 
 
- *𝕏:*  https://x.com/astha_s18?t=Mzszkjm2XGMr8C0-M7PYRA&s=08
+ *𝕏:*  https://x.com/astha_s18
  
-📱 *LinkedIn:* https://www.linkedin.com/in/astha-singh-627932322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+📱 *LinkedIn:* https://linkedin.com/in/astha-singh-627932322
 
 ---
 
