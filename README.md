@@ -33,13 +33,7 @@
 I'm actively learning and building — exciting repos will appear here soon!  
 Stay tuned 👀✨
 
----
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=18Astha&show_icons=true&theme=radical" />
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=18Astha&layout=compact&theme=radical" />
-</p>
 
 ---
 
