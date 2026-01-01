@@ -21,7 +21,7 @@
 
 ---
 
-## 🌱 Currently Learning  
+## Currently Learning  
 - Advanced JavaScript  
 - Responsive Web Design  
 - UI/UX Design (Figma, Design Psychology)  
