@@ -11,13 +11,6 @@
 
 ---
 
-## 🛠️ Skills & Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,vscode,git,github" />
-</p>
-
----
-
 ## 🌱 Currently Learning    
 - 📱 Responsive Web Design  
 - 🎨 UI/UX Design (Figma & Design Psychology)  
@@ -27,7 +20,7 @@
 
 ## 🛠 Skills & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,vscode,git,github,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,vscode,git,github,java,c" />
 </p>
 
 ---
@@ -37,20 +30,7 @@
 I'm actively learning and building — exciting repositories will appear here soon!  
 Stay tuned 👀✨  
 
----
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=18Astha&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18Astha&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/18Astha/18Astha/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
