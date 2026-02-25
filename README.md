@@ -1,39 +1,56 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=F772F7&size=28&center=true&vCenter=true&width=900&lines=Hi+there+👋+I'm+Astha+Singh!;Web+Developer+%7C+UI%2FUX+Enthusiast;Designing+Beautiful+%26+User-Friendly+Experiences;Always+Learning+%7C+Always+Building" />
-</p>
+<h1 align="center">Hi 👋, I'm Astha Singh</h1>
+<h3 align="center">🌸 Web Developer in Making | UI/UX Explorer | Creative Coder</h3>
 
 ---
 
 ## 🌸 About Me  
-✨ Passionate Web Developer in Making  
-✨ UI/UX learner who loves aesthetic digital experiences  
-✨ Obsessed with turning ideas into clean interfaces  
-✨ Currently learning *JavaScript, DOM, and UI/UX*  
-✨ Believe in learning by building, not just watching
+✨ Passionate Web Developer in the making  
+✨ UI/UX learner who loves aesthetic & user-friendly digital experiences  
+✨ Obsessed with turning ideas into clean, functional interfaces    
+✨ Believe in *learning by building, not just watching*  
 
 ---
 
-## 🛠 Skills & Tools  
+## 🛠️ Skills & Tools  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,figma,vscode,git,github" />
 </p>
 
 ---
 
-## Currently Learning  
-- Advanced JavaScript  
-- Responsive Web Design  
-- UI/UX Design (Figma, Design Psychology)  
-- Building real web projects  
+## 🌱 Currently Learning    
+- 📱 Responsive Web Design  
+- 🎨 UI/UX Design (Figma & Design Psychology)  
+- 💻 Building Real-World Web Projects  
 
 ---
 
-## 🚀 Projects (Coming Soon)
-I'm actively learning and building — exciting repos will appear here soon!  
-Stay tuned 👀✨
+## 🛠 Skills & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,vscode,git,github,java" />
+</p>
+
+---
 
 
+## 🚀 Projects (Coming Soon)  
+I'm actively learning and building — exciting repositories will appear here soon!  
+Stay tuned 👀✨  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=18Astha&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18Astha&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/18Astha/18Astha/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -46,8 +63,16 @@ Stay tuned 👀✨
 
 ---
 
-## 💫 Fun Fact  
-I love blending creativity + logic to build beautiful things on the internet ✨
+
+## 💫 Personal Motto  
+> Creativity + Logic = Beautiful Digital Experiences ✨
+
+
+
+---
+
+
+
 
 <!--
 **18Astha/18Astha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
